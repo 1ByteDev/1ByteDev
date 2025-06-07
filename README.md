@@ -1,29 +1,34 @@
-# SynthCore
+# 👋 Hi, I'm 1Byte
 
-**SynthCore** is a personal multi-functional project where I explore and learn how to build software tools  
-for game enhancement — including cheats, protection mechanisms, and quality-of-life features.
+I'm currently learning programming by building real-world tools — especially in game hacking and automation.  
+This GitHub is where I document my progress, ideas, and projects related to:
 
-This project is my starting point into programming more seriously, with the goal of learning by doing.
-
-## ✨ Project Modules
-
-| Module       | Description                                |
-|--------------|--------------------------------------------|
-| InDev 01     | Tool for bypass anti cheat |
-| InDev 02     | Cheat paenl |
-
-## 📌 Notes
-
-- This project is still under development.
-- I'm learning and improving over time — feedback is welcome!
-- The code might not be perfect yet, but it's a learning journey. 😊
-
-## 📚 Technologies Used
-
-- Language: C++, Python, etc. (depends on module)
-- Platform: Windows (initially)
+- 🎯 Game cheats and memory manipulation (e.g. `SynthLoad`)
+- 🛡️ Bypass and anti-detection tools (e.g. `SynthPadder`, `SynthGuard`)
+- ⚙️ Quality-of-life enhancements for gaming
+- 🧠 Reverse engineering and tool development
 
 ---
 
-> ⚠️ This repository is intended for educational purposes only.  
-> Misuse of this project is not encouraged or supported.
+## 🚧 What I'm working on
+
+| Project       | Description |
+|---------------|-------------|
+| **SynthLoad** | Main cheat engine module (memory hacks, function calls) |
+| **SynthPadder** | Expands file size to evade anti-cheat size checks |
+| **SynthGuard** | Anti-detection & stealth support layer |
+| **SynthQoL** | Small tools to improve gameplay experience |
+
+---
+
+## 🧠 My Goal
+
+To become really good at building low-level tools and understanding how games and protection systems work.  
+This repo shows my learning journey — not everything is perfect, but everything is real. 😎
+
+---
+
+## 📬 Contact / Social
+
+Not public yet — I'm just learning and sharing here for now.
+
