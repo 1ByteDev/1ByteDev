@@ -14,10 +14,7 @@ This GitHub is where I document my progress, ideas, and projects related to:
 
 | Project       | Description |
 |---------------|-------------|
-| **SynthLoad** | Main cheat engine module (memory hacks, function calls) |
 | **SynthPadder** | Expands file size to evade anti-cheat size checks |
-| **SynthGuard** | Anti-detection & stealth support layer |
-| **SynthQoL** | Small tools to improve gameplay experience |
 
 ---
 
