@@ -15,6 +15,7 @@ This GitHub is where I document my progress, ideas, and projects related to:
 | Project       | Description |
 |---------------|-------------|
 | **SynthPadder** | Expands file size to evade anti-cheat size checks |
+| **SynthAssist** | InDev |
 
 ---
 
