@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 1Byte
+# 👋 Hi, I'm ByteDev
 
 I'm currently learning programming by building real-world tools — especially in game hacking and automation.  
 This GitHub is where I document my progress, ideas, and projects related to:
@@ -14,8 +14,7 @@ This GitHub is where I document my progress, ideas, and projects related to:
 
 | Project       | Description |
 |---------------|-------------|
-| **SynthPadder** | Expands file size to evade anti-cheat size checks |
-| **SynthAssist** | InDev |
+| **Scrollby** | extension that hide scrollbar form site |
 
 ---
 
